@@ -1,0 +1,58 @@
+============== Exercices sur les listes et les boucles ==============
+
+Somme des nombres pairs:
+
+Crée une liste de nombres entre 1 et 20.
+Utilise une boucle pour additionner uniquement les nombres pairs.
+Affiche le résultat.
+
+-------------------------------------------------------------------------------------------
+
+Doublement des valeurs:
+
+Crée une liste de nombres [2, 5, 8, 10, 3].
+Utilise une boucle pour multiplier chaque élément par 2 et affiche la nouvelle liste.
+
+-------------------------------------------------------------------------------------------
+
+Filtrage des mots courts:
+
+Crée une liste de mots : ["python", "code", "dev", "ordinateur", "jeu", "clé"].
+Utilise une boucle pour afficher uniquement les mots qui ont plus de 3 lettres.
+
+-------------------------------------------------------------------------------------------
+
+Inversion d'une liste:
+
+Demande à l'utilisateur d'entrer 5 nombres et stocke-les dans une liste.
+Affiche la liste inversée (sans utiliser .reverse()).
+
+
+============== Exercices sur les dictionnaires et les boucles ==============
+
+Affichage des informations:
+
+Crée un dictionnaire avec les clés nom, âge et ville contenant des informations fictives.
+Utilise une boucle pour afficher chaque clé et valeur proprement formatées.
+
+-------------------------------------------------------------------------------------------
+
+Comptage des lettres:
+
+Demande à l'utilisateur d'entrer un mot.
+Crée un dictionnaire où les clés sont les lettres du mot et les valeurs le nombre de fois qu'elles apparaissent.
+
+-------------------------------------------------------------------------------------------
+
+Conversion de notes:
+
+Crée un dictionnaire associant des prénoms à des notes (ex: {"Alice": 15, "Bob": 9, "Charlie": 12}).
+Utilise une boucle pour afficher les élèves ayant une note supérieure à 10.
+
+-------------------------------------------------------------------------------------------
+
+Inventaire d'un magasin:
+
+Crée un dictionnaire avec des articles et leurs quantités ({"Pommes": 10, "Bananes": 5, "Oranges": 8}).
+Permets à l'utilisateur d'acheter un article (réduire la quantité).
+Affiche l’inventaire mis à jour.
