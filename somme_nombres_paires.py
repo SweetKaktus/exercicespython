@@ -1,6 +1,3 @@
-from pprint import pprint
-
-
 def sum_pair_numbers(cap_number: int = 20):
     list_numbers = range(cap_number)
     list_pair_numbers = [element for element in list_numbers if element % 2 == 0]
@@ -10,4 +7,4 @@ def sum_pair_numbers(cap_number: int = 20):
     return sum_pairs
 
 if __name__ == "__main__":
-    pprint(sum_pair_numbers(12))
+    print(sum_pair_numbers(12))
